@@ -29,9 +29,9 @@ The jupyter notebook <b>EDA.ipynb</b> has the source code with detailed inline c
 
 Some examples of the types of EDA performed on the Dataset has been shown below.
 
-<!-- ![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/1.png)
-![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/2.png)
-![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/3.png)
-![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/4.png)
-![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/5.png)
- -->
+![doc_image](https://github.com/girish1993/Melbourne-Drone-Data-Exploratory-Data-Analysis/blob/master/Docs/1.png)
+![doc_image](https://github.com/girish1993/Melbourne-Drone-Data-Exploratory-Data-Analysis/blob/master/Docs/2.png)
+![doc_image](https://github.com/girish1993/Melbourne-Drone-Data-Exploratory-Data-Analysis/blob/master/Docs/3.png)
+![doc_image](https://github.com/girish1993/Melbourne-Drone-Data-Exploratory-Data-Analysis/blob/master/Docs/4.png)
+![doc_image](https://github.com/girish1993/Melbourne-Drone-Data-Exploratory-Data-Analysis/blob/master/Docs/5.png)
+
