@@ -26,3 +26,12 @@ Several grahical plots are made use of to find descrepencies and to to find corr
 </ul>
 
 The jupyter notebook <b>EDA.ipynb</b> has the source code with detailed inline comments and descriptions.
+
+Some examples of the types of EDA performed on the Dataset has been shown below.
+
+<!-- ![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/1.png)
+![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/2.png)
+![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/3.png)
+![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/4.png)
+![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/docs/5.png)
+ -->
